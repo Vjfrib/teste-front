@@ -1,4 +1,10 @@
-html {
-  height: 100%;
-  width: 100%;
-}
+b { color:#02af3b; }
+p { color:#ce0909;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 48px;}
+h1 {color:rgb(255,0,0);
+   font-size: 48px;
+   font-family: 'Zapf-Chancery';
+   text-decoration: underline;
+   text-align: center; }
